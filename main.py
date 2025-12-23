@@ -7,10 +7,9 @@ from routers import auth,jinja2_page_rendering
 from fastapi.staticfiles import StaticFiles
 
 
-
+# application startup code
 @asynccontextmanager
 async def lifespan(app:FastAPI):
-    # startup code
     await create_all_tables()
     yield
 
