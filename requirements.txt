@@ -1,0 +1,17 @@
+fastapi[standard]
+sqlalchemy
+asyncpg
+passlib[argon2]
+python-jose
+alembic
+pydantic-extra-types
+phonenumbers
+pytest
+pytest-asyncio
+aiosqlite     # used for async unit testing with sqlite database
+httpx
+
+# front end libraries
+
+aiofiles
+jinja2
