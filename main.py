@@ -18,7 +18,7 @@ async def lifespan(app:FastAPI):
 app = FastAPI(lifespan=lifespan)
 
 
-# render to  todo page as home page
+# render todos-page as home page
 
 @app.get("/",status_code=status.HTTP_200_OK)
 async def home_page(request:Request):
