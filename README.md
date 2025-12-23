@@ -1,7 +1,7 @@
 # TODO APP
 
 This is a Todo List App I built entirely with FastApi to get hands on experience. It's actually my first project I've coded
-from start to finish. Just like any other Todo App that helps you create, edit and delete completed tasks, this one pretty much does the same thing. The codebase has more of Backend logic than Front-End, that's beacause I'm more into Backend development.
+from start to finish. Just like any other Todo App that helps you create, edit and delete completed tasks, this one pretty much does the same thing. The codebase has more of Backend logic than Frontend, that's beacause I'm more into Backend development.
 
 # APP FEATURES
 
@@ -12,7 +12,7 @@ from start to finish. Just like any other Todo App that helps you create, edit a
 
 # NOTE
 
-For get_me, update_me, change_password, update_phone and delete_me routes, the endpoints are working just fine. I did not include those in the Front-End.
+For get_me, update_me, change_password, update_phone and delete_me routes, the endpoints are working just fine. I did not include those in the Frontend.
 
 # CLONE REPO
 
