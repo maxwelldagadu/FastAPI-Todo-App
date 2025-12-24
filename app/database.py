@@ -9,7 +9,7 @@ load_dotenv()
 
 # database engine
 
-engine = create_async_engine(os.getenv("DATABASE_URL"),connect_args={"ssl":True})
+engine = create_async_engine(os.getenv("DATABASE_URL"),echo=False)
 
 # database session maker
 

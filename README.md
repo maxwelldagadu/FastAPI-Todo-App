@@ -18,11 +18,12 @@ For get_me, update_me, change_password, update_phone and delete_me routes, the e
 
 Feel free to clone this repository.
 
+bash
 git clone git https://github.com/maxwelldagadu/FastAPI-Todo-App.git
 
 # PIP INSTALL THE REQUIREMENTS.TXT FILE
 
-
+bash
 pip install requirements.txt
 
 # EXPLORE ALL ENDPOINTS
